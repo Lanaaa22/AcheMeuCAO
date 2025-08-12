@@ -4,6 +4,6 @@
 
 > Integrantes do grupo<br>
 Ilanna dos Reis Cardoso <br>
-Erick Ferreira Machado <br>
+Erick Machado Ferreira <br>
 
 ...<br>
