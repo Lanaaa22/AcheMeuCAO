@@ -3,8 +3,7 @@ Aplicativo para ajudar a encontrar cães perdidos e conectar tutores com pessoas
 
 ## 👤 COMPONENTES<br>
 
-> Integrantes do grupo<br>
-Ilanna dos Reis Cardoso <br>
+> Ilanna dos Reis Cardoso <br>
 Erick Machado Ferreira <br>
 
 ...<br>
