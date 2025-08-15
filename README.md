@@ -33,6 +33,20 @@ Erick Machado Ferreira <br>
 
 <br>
 
+## 📸 Protótipo
+
+<p align="center">
+  <img src="images-prototipo/cachorros.png" width="250">&nbsp;
+  <img src="images-prototipo/cadastra-cachorro.png" width="250">&nbsp;
+  <img src="images-prototipo/cadastro.png" width="250">&nbsp;
+  <img src="images-prototipo/descricao.png" width="250">&nbsp;
+  <img src="images-prototipo/filtro.png" width="250">&nbsp;
+  <img src="images-prototipo/index.png" width="250">&nbsp;
+  <img src="images-prototipo/login.png" width="250">&nbsp;
+  <img src="images-prototipo/perfil.png" width="250">
+</p>
+
+
 ## ✨ Funcionalidades
 - 📍 Cadastro de cães perdidos
 - 🔍 Busca dos cães
