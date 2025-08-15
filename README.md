@@ -1,7 +1,7 @@
 # AcheMeuCão  🐾 
 Aplicativo para ajudar a encontrar cães perdidos e conectar tutores com pessoas que possam ter visto seus pets.
 
-## 1. COMPONENTES<br>
+## 👤 COMPONENTES<br>
 
 > Integrantes do grupo<br>
 Ilanna dos Reis Cardoso <br>
