@@ -26,9 +26,18 @@ Erick Machado Ferreira <br>
 - 📸 Upload de fotos do pet
 - 
 ## 📸 Protótipo
-![Tela inicial](https://link-para-a-imagem.com/tela-inicial.png)
-![Tela de busca](https://link-para-a-imagem.com/tela-busca.png)
-![Tela de detalhes](https://link-para-a-imagem.com/tela-detalhes.png)
+<p align="center">
+  <img src="images-prototipo/cachorros.png" width="250">&nbsp;
+  <img src="images-prototipo/cadastra-cachorro.png" width="250">&nbsp;
+  <img src="images-prototipo/cadastro.png" width="250">&nbsp;
+  <img src="images-prototipo/descricao.png" width="250">&nbsp;
+  <img src="images-prototipo/filtro.png" width="250">&nbsp;
+  <img src="images-prototipo/index.png" width="250">&nbsp;
+  <img src="images-prototipo/login.png" width="250">&nbsp;
+  <img src="images-prototipo/perfil.png" width="250">
+</p>
+
+
 
 
 
